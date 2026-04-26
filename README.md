@@ -101,10 +101,10 @@ Works in **Azerbaijani, Russian, and English** — auto-detected from the browse
 
 | Name | Role |
 |---|---|
-| [Aliakbar Babayev] | Developer |
-| [Senan Abdullayev] | Bug Fixes |
-| [Turan Huseynli] | Idea & Pitch |
-| [Ferid Meybullayev] | Developer |
+| Aliakbar Babayev | Developer |
+| Senan Abdullayev | Bug Fixes |
+| Turan Huseynli | Idea & Pitch |
+| Ferid Meybullayev | Developer |
 
 ---
 
