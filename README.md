@@ -1,4 +1,4 @@
-# 🚕 Transport Plugin
+# 🚕 Transport Plugin By Flex Team
 ### *Book your ticket. We handle the rest.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=flat-square&logo=vercel)](https://transport-plugin.vercel.app)
@@ -42,7 +42,7 @@ No copy-pasting addresses. No mental math on timing. No extra apps.
 
 > Click **"Purchase Ticket"** on any ticket in the demo — watch what happens next.
 
-**[→ Live Demo](https://your-deployment.vercel.app)**
+**[→ Live Demo](https://transport-plugin.vercel.app)**
 
 We built demos for two real Azerbaijani transport providers:
 
@@ -101,9 +101,10 @@ Works in **Azerbaijani, Russian, and English** — auto-detected from the browse
 
 | Name | Role |
 |---|---|
-| [Your Name] | Development |
-| [Teammate] | Design |
-| [Teammate] | Idea & Pitch |
+| [Aliakbar Babayev] | Developer |
+| [Senan Abdullayev] | Bug Fixes |
+| [Turan Huseynli] | Idea & Pitch |
+| [Ferid Meybullayev] | Developer |
 
 ---
 
